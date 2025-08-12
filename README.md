@@ -2,7 +2,7 @@
 
 # Hi there, I'm **Sadiq Teslim Adetola** 👋
 
-**Frontend Developer | AI & Web Enthusiast**  
+**Fullstack Developer | AI & Web Enthusiast**  
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Sadiq-Teslim)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadiq-ta)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-25kl.vercel.app)
