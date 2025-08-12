@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a creative **Frontend Developer** passionate about crafting **responsive, scalable, and visually appealing web applications**. I specialize in **React, TypeScript, and TailwindCSS**, with experience integrating **Node.js, Express, and MongoDB** for full-stack solutions. I also enjoy building **AI-enhanced applications** that solve real-world problems.
+I'm a creative **Fullstack Developer** passionate about crafting **responsive, scalable, and visually appealing web applications**. I specialize in **React, TypeScript, and TailwindCSS**, with experience integrating **Node.js, Express, and MongoDB** for full-stack solutions. I also enjoy building **AI-enhanced applications** that solve real-world problems.
 
 ---
 
