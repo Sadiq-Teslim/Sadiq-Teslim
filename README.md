@@ -5,7 +5,7 @@
 **Fullstack Developer | AI & Web Enthusiast**  
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Sadiq-Teslim)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadiq-ta)
-[![Resume](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://bit.ly/STAResume)
+[![Resume](https://img.shields.io/badge/Resume-000000?logo=vercel&logoColor=white)](https://bit.ly/STAResume)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-25kl.vercel.app)
 
 ---
