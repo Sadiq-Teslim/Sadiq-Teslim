@@ -1,58 +1,63 @@
-![Banner](https://drive.google.com/file/d/18cPubHopr11AHm7e_GsgNdb096C0FVxV/view?usp=drive_link)
+![Banner](https://drive.google.com/uc?export=view&id=18cPubHopr11AHm7e_GsgNdb096C0FVxV)
 
-# Hi there, I'm **Sadiq Teslim Adetola** 👋
+# 👋 Hi there, I'm **Sadiq Teslim Adetola**
 
-**Fullstack Developer | AI & Web Enthusiast**  
+**Fullstack Developer | AI & Web Enthusiast | Hackathon Winner (x5)**  
+
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Sadiq-Teslim)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadiq-ta)
-[![Resume](https://img.shields.io/badge/Resume-000000?logo=vercel&logoColor=white)](https://bit.ly/STAResume)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-25kl.vercel.app)
+[![Resume](https://img.shields.io/badge/Resume-000000?logo=readme&logoColor=white)](https://bit.ly/STAResume)
 
 ---
 
-### 👨‍💻 About Me
-I'm a creative **Fullstack Developer** passionate about crafting **responsive, scalable, and visually appealing web applications**. I specialize in **React, TypeScript, and TailwindCSS**, with experience integrating **Node.js, Express, and MongoDB** for full-stack solutions. I also enjoy building **AI-enhanced applications** that solve real-world problems.
+### 🧠 About Me
+I’m a **Fullstack Developer** passionate about building **responsive, accessible, and AI-driven digital experiences** that make a real impact.  
+I work with **React, Next.js, TypeScript, and TailwindCSS** on the frontend — and **Node.js, Express, and MongoDB** on the backend.  
+I love merging **AI and web development** to create smarter, more intuitive tools that scale.
 
 ---
 
 ### 🛠️ Tech Stack
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
 </p>
 
 ---
 
 ### 🚀 Featured Projects
-- **[Kula](https://kula1.netlify.app)** – AI companion for new mothers *(React, Node.js, Gemini AI, TensorFlow.js)*
-- **[ULES Awards Voting Platform](https://ules-vote.netlify.app)** – Full-stack voting system with live dashboards *(React, Node.js, MongoDB)*
-- **[ULES Dinner & Awards Ticketing Portal](https://ticketgenerator-rho.vercel.app)** – Multi-step ticketing system with Paystack integration
-- **[EchoWatch](https://echowatch.netlify.app)** – Real-time AI threat detection tool *(HTML, TailwindCSS, TensorFlow.js)*
-- **[GPAi](https://gpaicalc.netlify.app)** – AI-powered GPA calculator with personalized feedback
+- **[Kula](https://kula1.netlify.app)** – AI companion for new mothers’ emotional & mental health *(React, Node.js, Gemini AI, TensorFlow.js)*
+- **[ULES Awards Voting Portal](https://ules-vote.netlify.app)** – Scalable e-voting system used by **3,500+ voters** with **20K+ votes cast** *(React, Node.js, MongoDB)*  
+- **[ULES Dinner Ticketing System](https://ticketgenerator-rho.vercel.app)** – Multi-step ticketing platform with **Paystack payment integration**
+- **[EchoWatch](https://echowatch.netlify.app)** – Real-time AI threat detection and safety alert system *(HTML, TailwindCSS, TensorFlow.js)*
+- **[GPAi](https://gpaicalc.netlify.app)** – AI-powered GPA calculator that gives personalized study feedback
+- **[FairPlay Africa](https://fairplayafrica.vercel.app)** – Anti-piracy tool helping African filmmakers protect digital content *(Next.js, Node.js, MongoDB)*  
 
-*Explore more on my [portfolio](https://portfolio-25kl.vercel.app).* 
+> 🧩 Explore more projects on my [Portfolio →](https://portfolio-25kl.vercel.app)
 
 ---
 
 ### 🏆 Achievements
-- **Winner:** ACM Hackathon 2025 *(2025)*
-- **Winner:** Costech Samrt City Hackathon 2025 *(2025)*
-- **Winner:** Avzdax Safe-Code Hackathon *(2025)*
-- **1st Runner-Up:** Curacel Insurance Hackathon *(2025)*
-- **Winner:** CJID AI for Journalism Hackathon *(2025)*
+- 🥇 **Winner — ACM Hackathon 2025** *(FairPlay Africa)*  
+- 🥇 **Winner — Costech Smart City Hackathon 2025**  
+- 🥇 **Winner — Avzdax Safe-Code Hackathon 2025**  
+- 🥈 **1st Runner-Up — Curacel Insurance Hackathon 2025**  
+- 🥇 **Winner — CJID AI for Journalism Hackathon 2025**  
 
 ---
 
-### 📬 Let's Connect!
-- **Email:** [sadiqadetola08@gmail.com](mailto:sadiqadetola08@gmail.com)  
-- **Location:** Lagos, Nigeria
+### 📫 Let’s Connect
+📧 **Email:** [sadiqadetola08@gmail.com](mailto:sadiqadetola08@gmail.com)  
+📍 **Location:** Lagos, Nigeria  
 
----
+> “Building the future, one line of code at a time.”
