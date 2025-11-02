@@ -1,6 +1,6 @@
 ![Banner](https://drive.google.com/uc?export=view&id=18cPubHopr11AHm7e_GsgNdb096C0FVxV)
 
-# 👋 Hi there, I'm **Sadiq Teslim Adetola**
+# 👋 Hi there, I'm **Teslim Adetola Sadiq**
 
 **Fullstack Developer | AI & Web Enthusiast | Hackathon Winner (x5)**  
 
