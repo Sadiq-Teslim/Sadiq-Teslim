@@ -43,7 +43,7 @@ I love merging **AI and web development** to create smarter, more intuitive tool
 - **[GPAi](https://gpaicalc.netlify.app)** – AI-powered GPA calculator that gives personalized study feedback
 - **[FairPlay Africa](https://fairplayafrica.vercel.app)** – Anti-piracy tool helping African filmmakers protect digital content *(Next.js, Node.js, MongoDB)*  
 
-> 🧩 Explore more projects on my [Portfolio →](https://portfolio-25kl.vercel.app)
+> 🧩 Explore more projects on my [Portfolio →](https://teslimcodes.tech)
 
 ---
 
