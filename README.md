@@ -1,5 +1,3 @@
-![Banner](https://drive.google.com/uc?export=view&id=18cPubHopr11AHm7e_GsgNdb096C0FVxV)
-
 <h1 align="center">Teslim Adetola Sadiq</h1>
 
 <p align="center">
