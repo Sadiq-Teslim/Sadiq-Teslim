@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/sadiq-ta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a>
   <a href="https://teslimcodes.tech"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white&style=flat-square" /></a>
   <a href="https://x.com/teslimcodes"><img src="https://img.shields.io/badge/X-000?logo=x&logoColor=white&style=flat-square" /></a>
-  <a href="https://drive.google.com/file/d/1aSded3CWhH_AeMDsmxiy0olSk86d5xHM/view"><img src="https://img.shields.io/badge/Resume-000?logo=readme&logoColor=white&style=flat-square" /></a>
+  <a href="https://drive.google.com/file/d/1XRMyubCAwXb_l1iD2FctMT_uOr0OyxZF/view"><img src="https://img.shields.io/badge/Resume-000?logo=readme&logoColor=white&style=flat-square" /></a>
 </p>
 
 <p align="center">
